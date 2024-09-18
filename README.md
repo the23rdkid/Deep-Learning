@@ -1,0 +1,1 @@
+Deep learning concepts and projects ranging from linear regression, perceptrons, stochastic gradient descent, neural networks, backpropagation, convolotional architectures, data augmentation and loss functions, bias-variance tradeoffs, batch-normalisation, recurrent architectures, attention mechanisms, machine learning models, GANs
